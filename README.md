@@ -11,8 +11,8 @@
 ```xml
 <dependency>
 	<groupId>fun.nibaba</groupId>
-	<artifactId>lazyfish-mp-join</artifactId>
-  <version>0.0.4-SNAPSHOT</version>
+	<artifactId>lazyfish-mp</artifactId>
+  <version>0.0.1</version>
 </dependency>
 ```
 
@@ -22,10 +22,9 @@
 
 ## 计划
 
-- [x] 联表查询sql构建器 v0.0.3-SNAPSHOT
-- [x] join on 支持嵌套 v0.0.4-SNAPSHOT
+- [x] 联表查询sql构建器 v0.0.1
+- [x] join on 支持嵌套 v0.0.1
 - [x] 支持函数查询字段
-- [x] 删除对hutool工具包的依赖
 
 
 

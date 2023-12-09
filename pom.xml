@@ -6,7 +6,6 @@
     <groupId>fun.nibaba</groupId>
     <artifactId>lazyfish-mp</artifactId>
     <version>0.0.1</version>
-    <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
     <description>【闲鱼】mybatis plus 常用工具</description>
