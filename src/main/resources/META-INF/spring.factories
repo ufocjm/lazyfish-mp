@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    fun.nibaba.lazyfish.mybatis.plus.core.conf.InitMpConfiguration
